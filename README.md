@@ -8,7 +8,7 @@ Domain:FRONTEND WEB DEVELOPMENT
 
 Duration:August to september
 
-Mentor:MUZAMMIL
+Mentor:MUZAMMIL AHMED
 
 
 Simple TO-DO List Application....
